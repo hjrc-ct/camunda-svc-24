@@ -34,4 +34,7 @@ Note: Make sure to edit mail properties in file <code>mail-config.properties</co
 >
 Open browser to login to the Camunda 7 platform. Use the default credentials as mentioned in the <code>application.yaml</code>.
 > (http://localhost:8080/camunda-welcome/index.html)
->
+
+## References
+Camunda 7 mail connector by Community Hub -> https://github.com/camunda-community-hub/camunda-platform-7-mail/tree/main
+
