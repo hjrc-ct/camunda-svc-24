@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/target/classes/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target/classes/META-INF" />
+    </content>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8b4abef2-922e-40b9-9ebd-9a3b8b723646" />
+  </component>
+</module>

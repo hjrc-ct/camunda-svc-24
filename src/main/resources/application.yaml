@@ -1,0 +1,10 @@
+logging.level.org:
+  springframework: info
+
+camunda.bpm:
+  enabled: true
+  auto-deployment-enabled: true
+
+camunda.bpm.admin-user:
+  id: demo
+  password: demo
