@@ -1,11 +1,17 @@
 # camunda-svc-24
 
 Platform Snapshot
-> 
-Camunda 7.20.0
-> 
-Open JDK 21
 
+`Camunda 7.20.0`
+> 
+`Open JDK 21`
+>
+`Spring Boot 3.2.2`
+>
+`Spring Security 6.2.2`
+>
+`Apache Maven 3.9.6`
+>      
 
 ## Compile and Run
 
